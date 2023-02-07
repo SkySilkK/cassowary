@@ -30,6 +30,7 @@ Please give a star ⭐ or follow this project if you find it useful.
 
 1. [Setting up a Windows VM with virt-manager](docs/1-virt-manager.md)
 2. [Installing Cassowary on a Windows guest and Linux host](docs/2-cassowary-install.md)
+2.5. [Special Step to get Linux host file to get working on windows guest](docs/special-function.md)
 3. [Extra How to's and FAQ](docs/3-faq.md)
 * Building Cassowary from source
 * How can I help?
